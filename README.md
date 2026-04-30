@@ -9,3 +9,6 @@ Battle Background - Ripped by srb2x
 Battle Effects - Ripped by Mageker
 
 Made by: Rachel Lawrence, Bukola Olagunju, Oluwafunsho Osoba
+
+You need to download GameMaker in order to play the game.
+It can be found here: https://gamemaker.io/en
